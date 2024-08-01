@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pradip Rathod</h1>
 <h3 align="center">A passionate frontend developer and Data Analyst .</h3>
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw2p2O_fPvdkLmXbbCkyRI9j&ust=1722617954970000&source=images&cd=vfe&opi=89978449&ved=0CA4QjRxqFwoTCJDwv9Wj1IcDFQAAAAAdAAAAABAJ"
+<img align="right" alt="coding" width="400" src="C:\Users\HP\Downloads\Github.png"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rtdpradip-07&label=Profile%20views&color=0e75b6&style=flat" alt="rtdpradip-07" /> </p>
 
