@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pradip Rathod</h1>
 <h3 align="center">A passionate frontend developer and Data Analyst .</h3>
-<img align="right" alt="coding" width="400" src="C:\Users\HP\Downloads\Github.png"
+<img align="right" alt="coding" width="400" src="https://i.gifer.com/3IsP.gif"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rtdpradip-07&label=Profile%20views&color=0e75b6&style=flat" alt="rtdpradip-07" /> </p>
 
